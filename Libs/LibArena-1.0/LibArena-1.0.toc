@@ -1,0 +1,12 @@
+## Interface: 60000
+
+## Title: Lib: Arena-1.0
+## Notes: Provides usefull arena functions!
+## Author: Max David aka Vènomstrikè
+## OptionalDeps: Libstub, CallbackHandler-1.0, AceTimer-3.0
+## X-Category: Library
+
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibStub\LibStub.lua
+
+LibArena-1.0.lua
